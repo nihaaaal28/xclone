@@ -1,6 +1,6 @@
-# X Clone
+# X(Twitter) Clone
 
-A Twitter homepage clone built with HTML and Tailwind CSS. This is a static UI clone — there’s no backend or real posting functionality.
+A X(Twitter) homepage clone built with HTML and Tailwind CSS. This is a static UI clone — there’s no backend or real posting functionality.
 
 ## How to Use
 
